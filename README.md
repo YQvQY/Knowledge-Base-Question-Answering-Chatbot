@@ -28,6 +28,8 @@ The chatbot runs on a decent CPU machine with a minimum of 16GB of RAM.
 
 Once you've verified that the embeddings and content have been successfully added to your faiss store, you can run the app `chainlit run model.py -w` to launch the local dev environment with Chainlit UI, and then type a question in the chat interface.
 
+![chainlit_demo_screenshot](img/chainlit_demo_screenshot.png)
+
 ## Credit: 
 
 - [AIAnytime](https://github.com/AIAnytime/Llama2-Medical-Chatbot)
