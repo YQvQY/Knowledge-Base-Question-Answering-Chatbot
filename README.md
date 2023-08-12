@@ -1,7 +1,7 @@
-# Medical-Knowledge-Base-Question-Answering-Chatbot
-This is a medical bot built using Llama2 and Sentence Transformers for multiple Large PDF files. 
+# Knowledge-Base-Question-Answering-Chatbot
+This is a medical chatbot built using Llama2 and Sentence Transformers for multiple Large PDF files (You can change to any other field PDF files). The chatbot is designed to deliver a seamless conversational experience with its natural language processing capabilities on your own data.
 
-The chatbot is powered by Langchain, Fasiss and Chainlit. LangChain is a framework that makes it easier to build scalable AI/LLM apps and chatbots. Faiss is a vectorstore for storing embeddings and your PDF in text to later retrieve similar docs. Chainlit lets you create ChatGPT-like UIs on top of any Python code in minutes! Some of the key features include intermediary steps visualisation, element management & display (images, text, carousel, etc.) as well as cloud deployment.
+The chatbot is powered by Langchain, Fasiss and Chainlit. LangChain is a framework that makes it easier to build scalable AI/LLM apps and chatbots. Faiss is a vectorstore for storing embeddings and your PDF in text to later retrieve similar docs. Chainlit lets you create ChatGPT-like UIs on top of any Python code. 
 
 The chatbot runs on a decent CPU machine with a minimum of 16GB of RAM.
 
